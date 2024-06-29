@@ -13,6 +13,7 @@ blinker==1.8.2
 branca==0.7.2
 cachetools==5.3.3
 certifi==2024.6.2
+pywin==306
 cffi==1.16.0
 charset-normalizer==3.3.2
 click==8.1.7
