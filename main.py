@@ -89,7 +89,7 @@ with st.sidebar:
     # Crédits de la Carte
 
     Cette carte a été imaginée par :
-    - [Tahina Duroussy]https://www.linkedin.com/in/tahina-duroussy-94420b161/)
+    - [Tahina Duroussy] (https://www.linkedin.com/in/tahina-duroussy-94420b161/)
     - [Christelle Emery](https://www.linkedin.com/in/christelle-emery-6a0b20245/)
     - [Thibault Le Balier](https://www.linkedin.com/in/thibault-le-balier-5b9905189/)
     - [Armelle Tchoua](https://www.linkedin.com/in/armelletchoua01fr/)
