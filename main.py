@@ -89,17 +89,17 @@ with st.sidebar:
     # Crédits de la Carte
 
     Cette carte a été imaginée par :
-    - [Tahina Duroussy](https://www.linkedin.com/in/tahinaduroussy/)
-    - [Christelle Emery](https://www.linkedin.com/in/christelleemery/)
-    - [Thibault Le Balier](https://www.linkedin.com/in/thibaultlebalier/)
-    - [Armelle Tchoua](https://www.linkedin.com/in/armelletchoua/)
-    - [Olivier Schneider](https://www.linkedin.com/in/olivierschneider/)
-    - [Laura Moy](https://www.linkedin.com/in/lauramoy/)
-    - [Nasstya Fakhreddine](https://www.linkedin.com/in/nasstyafakhreddine/)
+    - [Tahina Duroussy]https://www.linkedin.com/in/tahina-duroussy-94420b161/)
+    - [Christelle Emery](https://www.linkedin.com/in/christelle-emery-6a0b20245/)
+    - [Thibault Le Balier](https://www.linkedin.com/in/thibault-le-balier-5b9905189/)
+    - [Armelle Tchoua](https://www.linkedin.com/in/armelletchoua01fr/)
+    - [Olivier Schneider](https://www.linkedin.com/in/olivier-schneider-chef-de-projet-digital/)
+    - [Laura Moy](https://www.linkedin.com/in/laura-moy-2503/)
+    - [Nasstya Fakhreddine](https://www.linkedin.com/in/nasstya-fakhreddine-3825781a9/)
 
     Et a été développée par :
     - [Anoussone Simuong](https://www.linkedin.com/in/anousimuong/)
-    - [Melanie Orellana](https://www.linkedin.com/in/melanieorellana/)
+    - [Melanie Orellana](https://www.linkedin.com/in/m%C3%A9lanie-orellana-031465173/)
     """)
 
 # Filter establishments by year, type, and IPS
