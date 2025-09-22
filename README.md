@@ -3,7 +3,9 @@
 
 **Application interactive** pour visualiser et analyser les corrélations entre l'abstention électorale et des variables socio-économiques en France.
 
-![Carte interactive de l'abstention et de l'IPS](https://via.placeholder.com/800x400?text=Carte+interactive+de+l%27abstention)
+![Carte interactive de l'abstention et de l'IPS sur Streamlit Cloud Community](https://hackathon2024esd.streamlit.app/)
+[Disclaimer : Parfois, l'app crash et ne se redémarre pas, dû à la nature des community cloud de Streamlit. Ne pas hésiter à me ping ou alors lancer la carte en local !] 
+
 
 ---
 
