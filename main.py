@@ -193,4 +193,5 @@ with col1:
 with col2:
     st.image('image2.png')
 
-st.button('Accéder à la version complète')
+## st.button('Accéder à la version complète')
+
