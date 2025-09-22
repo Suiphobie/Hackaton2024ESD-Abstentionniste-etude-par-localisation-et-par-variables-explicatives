@@ -115,7 +115,7 @@ Les fichiers de données doivent être placés dans le même répertoire que l'a
 
 ## 📊 Analyse Complémentaire
 
-L'application inclut des visuels Power BI pour approfondir l'analyse de l'abstention par géolocalisation. Pour y accéder, cliquez sur le bouton **"Accéder à la version complète"** dans l'application.
+L'application inclut des visuels Power BI pour approfondir l'analyse de l'abstention par géolocalisation.
 
 ---
 
